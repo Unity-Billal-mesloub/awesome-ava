@@ -1,6 +1,6 @@
 # Awesome AVA [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://github.com/Unity-Billal-mesloub/ava/raw/main/media/header.png" width="280" align="right" alt="AVA">](https://avajs.dev)
 
-> [AVA](https://avajs.dev) is a minimal & futuristic JavaScript test runner
+> [AVA](https://github.com/Unity-Billal-mesloub/ava/) is a minimal & futuristic JavaScript test runner
 
 ## Contents
 
